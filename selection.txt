@@ -1,0 +1,4 @@
+WINNER: Draft B (drafts/b.md) pairs a fresh regulatory lead grounded in Spain’s official decree with the strongest primary-source reporting across the edition.
+RANKING
+2. Draft C (drafts/c.md) finds a material update to the Binance withdrawal story and discloses its limitations, but five items depend at least in part on Unchained, including a speculative cryptography claim.
+3. Draft A (drafts/a.md) leads on a real mining incident, but repeats that subject in TECH, draws three other items from Ethlabs, and presents a Kyrgyzstan-specific headline whose supporting details come from secondary reporting.
